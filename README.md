@@ -1,1 +1,1 @@
-# bingoko.github.io
+# webpage
