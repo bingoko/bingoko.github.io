@@ -201,6 +201,18 @@ h2 {
 /*	border: 1px solid #E5E5E5;*/
 }
 
+#contentbar-teaching {
+	width:310px;
+	margin-top: 0;
+	margin-right: 15px;
+	margin-bottom: 0;
+	margin-left: 0px;
+	float:left;
+	line-height:140%;
+	background-color:#FFF;
+/*	border: 1px solid #E5E5E5;*/
+}
+
 #contentbar h3, #contentbar p {
 	padding:0 10px;
 }
