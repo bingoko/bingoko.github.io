@@ -11,5 +11,5 @@ function navigation(){
 }
 
 function banner(){
-	document.write('<h1>Lingbo Li</h1><p>PhD student</p><p>CREST Centre</p><p>Software System Engineering Group</p><p>Department of Computer Science </p><p>University College London, UK </p>');	
+	document.write('<h1>Lingbo Li</h1><p>Associate Professor</p><p>State Keylab of Software Engineering</p><p>Computer School</p><p>Wuhan University, China </p>');	
 }
