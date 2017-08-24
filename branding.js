@@ -11,5 +11,5 @@ function navigation(){
 }
 
 function banner(){
-	document.write('<h1>Lingbo Li</h1><p>Associate Professor</p><p>State Keylab of Software Engineering</p><p>Computer School</p><p>Wuhan University, China </p>');	
+	document.write('<h1>Lingbo Li, PhD</h1><p>Associate Professor</p><p>State Keylab of Software Engineering</p><p>Computer School</p><p>Wuhan University, China </p>');	
 }
